@@ -1,1 +1,1 @@
-<h1 align="center">Rust link</h1>
+<h1 align="center">Rust link CLI</h1>
