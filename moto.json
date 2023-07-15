@@ -1,0 +1,12 @@
+{
+    "description": "Moto", 
+    "modelo": "Yamaha", 
+    "marca": "RTX", 
+    "image": "QmXidjvPbXSmqK2Y6sGg1Hn8p4ikLBQ9VYB5SL2rrAZpMj",
+    "attributes": [ 
+      {
+          "type": "SOAT",
+          "value": "01/02/2023"
+      }
+     ]
+  }

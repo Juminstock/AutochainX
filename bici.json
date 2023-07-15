@@ -1,0 +1,12 @@
+{
+    "description": "Bici", 
+    "modelo": "MTX", 
+    "marca": "Speedrun", 
+    "image": "QmWiheDv3JsnTNG7G24YYV7BX7k5pSDk2kNSQ33ZjzHfyo",
+    "attributes": [ 
+      {
+          "type": "SOAT",
+          "value": "01/01/2023"
+      }
+     ]
+  }

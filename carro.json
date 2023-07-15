@@ -1,0 +1,12 @@
+{
+    "description": "Carro", 
+    "modelo": "Lamborguini", 
+    "marca": "Dark 3", 
+    "image": "QmYbS1hjCQtDDTywyY4GsV2d9ANbfL6StsnhBp6pPqvQUF",
+    "attributes": [ 
+      {
+          "type": "SOAT",
+          "value": "01/03/2023"
+      }
+     ]
+  }
